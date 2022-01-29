@@ -1,0 +1,16 @@
+.name{
+    text-align: center;
+    font-size: 25px;
+    color: brown;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.form{
+
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    margin-bottom: 30;
+    
+}

@@ -1,0 +1,15 @@
+.navbar{
+   font-size: 25px;
+
+}
+.navbar-brand{
+    font-size: 30px;
+    color:purple !important;
+ }
+ .nav-link{
+color:black !important;
+ }
+ .nav-link:hover, nav-link:hover, nav-link:hover {
+  color: purple !important;
+ 
+}
